@@ -1,6 +1,6 @@
 # ⚡ InternRadar — Live Internship & Hackathon Tracker
 
-> **Developed by [Utkarsh Tiwari](https://github.com/utkarshtiwari)**
+> **Developed by Utkarsh Tiwari**
 
 InternRadar is a fast, responsive, and privacy-first hiring radar built for engineering and computer science students. It aggregates active hiring windows, technical internships (FAANG, Unicorns & Global Tech), college hackathons (SIH, ICPC, Flipkart GRiD), research fellowships (Google MSR, MITACS), and government training schemes — filtered directly to your academic cohort.
 
