@@ -124,7 +124,7 @@ internradar/
 
 **Utkarsh Tiwari**
 - **Project**: InternRadar Live
-- **GitHub**: [@utkarshtiwari](https://github.com/utkarshtiwari)
+- **GitHub**: [@utkarshtiwari](https://github.com/treptrition)
 
 ---
 
