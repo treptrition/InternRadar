@@ -1,0 +1,6 @@
+{
+  "name": "InternRadar",
+  "description": "Live internship & hackathon tracker with Google OAuth, encrypted token storage, database schema migrations, and academic year roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
